@@ -1,0 +1,9 @@
+C:\Users\basit\Desktop\studentForm\bin\Debug\studentForm.exe.config
+C:\Users\basit\Desktop\studentForm\bin\Debug\studentForm.exe
+C:\Users\basit\Desktop\studentForm\bin\Debug\studentForm.pdb
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.csprojAssemblyReference.cache
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.Form1.resources
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.Properties.Resources.resources
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.csproj.GenerateResource.cache
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.exe
+C:\Users\basit\Desktop\studentForm\obj\Debug\studentForm.pdb
